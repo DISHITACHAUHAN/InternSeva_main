@@ -1,5 +1,5 @@
 import React from 'react';
-import './AboutUs.css';
+import './aboutus.css';
 import Contact from '../contact/Contact';
 const AboutUs = () => {
   return (
@@ -109,7 +109,7 @@ const AboutUs = () => {
               </div>  
             </div>
             <button className="contact-btn">
-                 <a href="/contact" className="nav-link-contact nav-link">
+                 <a href="/contact" className="navs-link">
                     Contact Us
                  </a>
                
